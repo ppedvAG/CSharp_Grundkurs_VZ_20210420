@@ -122,21 +122,21 @@ C# Grundlagenkurs in Vollzeit vom 20.04.2021 bis 23.04.2021 - Trainer: Benedikt 
 ## M014 | FEHLERBEHANDLUNG
 - [x] Fehlertypen
 - [x] try-catch [Link](Uebungen/Modul014_01_Fehlerbehandlung/Program.cs) 
-- [ ] Debugger 
+- [x] Debugger 
 - [x] UnitTests [Link](Uebungen/Modul014_02_UnitTest_Funktionen/Program.cs) 
 
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional)
-- [ ] Dateien lesen/schreiben <!--[Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)-->
-- [ ] Dateidialog <!--[Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)-->
-- [ ] JSON <!--[Link](Uebungen/Modul015_02_JSON/Program.cs)-->
-- [ ] XML <!--[Link](Uebungen/Modul015_03_XML/Program.cs)-->
-- [ ] Fragen <!--[Link](Uebungen/Modul015_Fragen)-->
+- [x] Dateien lesen/schreiben [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)
+- [x] Dateidialog [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)
+- [x] JSON [Link](Uebungen/Modul015_02_JSON/Program.cs)
+- [x] XML [Link](Uebungen/Modul015_03_XML/Program.cs)
+- [x] Fragen [Link](Uebungen/Modul015_Fragen)
 
 
 ## M016 | ABSCHLUSSPROJEKT (optional)
-- [ ] API <!--[Link](Uebungen/Modul016_API)-->
-- [ ] WPF <!--[Link](Uebungen/Modul016_WPF)-->
+- [ ] API [Link](Uebungen/Modul016_API)
+- [x] WPF [Link](Uebungen/Modul016_WPF)
 
 
 ## M017 | ZUSÄTZLICHE THEMEN (optional)
