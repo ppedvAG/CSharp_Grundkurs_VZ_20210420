@@ -135,11 +135,5 @@ C# Grundlagenkurs in Vollzeit vom 20.04.2021 bis 23.04.2021 - Trainer: Benedikt 
 
 
 ## M016 | ABSCHLUSSPROJEKT (optional)
-- [ ] API [Link](Uebungen/Modul016_API)
-- [x] WPF [Link](Uebungen/Modul016_WPF)
+- [x] API Zugriff[Link](Uebungen/Modul016_Console)
 
-
-## M017 | ZUSÄTZLICHE THEMEN (optional)
-- [ ] Klassendiagramme
-- [ ] Deployment
-- [ ] .NET Framework/.NET Core/.NET 5
